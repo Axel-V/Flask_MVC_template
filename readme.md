@@ -1,5 +1,4 @@
-### A flask based application template
+### Flask MVC Template
 
-A basic template for a flask app based on a MVC architecture
+A Flask mvc template to start quickly a new Flask project with reusability of his components in mind
 
-feel free to use & abuse it
